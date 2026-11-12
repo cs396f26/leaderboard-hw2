@@ -1,4 +1,4 @@
-# Results at 2026 Nov 11 19:03 CST
+# Results at 2026 Nov 11 19:05 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 0.198 | 0.299 | 0.000 | 0.276 | 0.299 | 0.055|
