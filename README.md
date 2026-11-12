@@ -1,4 +1,4 @@
-# Results at 2026 Nov 11 18:07 CST
+# Results at 2026 Nov 11 18:20 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
-|2026_11_11 | baseline | no_50 | 3be32588 | nan | nan | nan | nan | nan | nan|
+|2026_11_11 | baseline | no_50 | 3be32588 | 0.000 | 0.000 | 0.776 | 0.276 | 0.000 | 0.055|
