@@ -1,4 +1,4 @@
-# Results at 2026 Nov 16 17:30 CST
+# Results at 2026 Nov 16 18:01 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -40,3 +40,14 @@
 |2026_11_16 | jack | no_50 | a2f84cbe | 0.000 | 0.000 | 0.776 | 0.276 | 0.500 | 0.053|
 |2026_11_16 | jack | yes_50 | a2f84cbe | 0.000 | 0.366 | 0.224 | 0.276 | -0.052 | 0.053|
 |2026_11_16 | colabfab | Logistic_Regression_ColabFab | a9e14118 | 0.065 | 0.371 | 0.782 | 0.023 | 0.784 | 0.089|
+|2026_11_16 | gugugaga | hgb_d2_fair_pa2 | c2acc87c | 0.061 | 0.446 | 0.808 | 0.018 | 0.792 | 0.076|
+|2026_11_16 | superorangebody | r1_constant_one | b1282ef8 | 0.000 | 0.366 | 0.224 | 0.776 | -0.552 | 0.053|
+|2026_11_16 | superorangebody | r1_constant_zero | b1282ef8 | 0.000 | 0.000 | 0.776 | 0.224 | 0.552 | 0.053|
+|2026_11_16 | superorangebody | r1_logistic_with_pa | b1282ef8 | 0.065 | 0.370 | 0.771 | 0.025 | 0.781 | 0.072|
+|2026_11_16 | superorangebody | r1_logistic_with_pa_soft | b1282ef8 | 0.065 | 0.370 | 0.771 | 0.161 | 0.645 | 0.056|
+|2026_11_16 | superorangebody | r1_logistic_with_pa_t30 | b1282ef8 | 0.075 | 0.499 | 0.747 | 0.025 | 0.781 | 0.072|
+|2026_11_16 | superorangebody | r1_logistic_with_pa_t70 | b1282ef8 | 0.072 | 0.192 | 0.771 | 0.025 | 0.768 | 0.072|
+|2026_11_16 | superorangebody | r1_prevalence | b1282ef8 | 0.000 | 0.000 | 0.776 | 0.006 | 0.770 | 0.053|
+|2026_11_16 | superorangebody | r2_accuracy | b1282ef8 | 0.058 | 0.455 | 0.763 | 0.025 | 0.785 | 0.072|
+|2026_11_16 | superorangebody | r2_f1 | b1282ef8 | 0.073 | 0.544 | 0.683 | 0.008 | 0.760 | 0.076|
+|2026_11_16 | superorangebody | r2_fairness | b1282ef8 | 0.042 | 0.535 | 0.717 | 0.023 | 0.748 | 0.072|
