@@ -1,4 +1,4 @@
-# Results at 2026 Nov 16 23:01 CST
+# Results at 2026 Nov 16 23:31 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -89,3 +89,8 @@
 |2026_11_16 | bogey_golfer | hgb_fair_pa2 | 0348ad09 | 0.052 | 0.443 | 0.813 | 0.010 | 0.803 | 0.067|
 |2026_11_16 | close_enough | hgb_small_accuracy | 7dc86337 | 0.072 | 0.524 | 0.729 | 0.010 | 0.784 | 0.078|
 |2026_11_16 | close_enough | hgb_small_f1 | 7dc86337 | 0.083 | 0.546 | 0.685 | 0.010 | 0.761 | 0.078|
+|2026_11_16 | colabfab | PA2_unfair | 9e4a76be | 0.125 | 0.255 | 0.000 | 0.276 | 0.357 | 0.053|
+|2026_11_16 | colabfab | allzero_logreg_prob | 9e4a76be | 0.000 | 0.000 | 0.776 | 0.023 | 0.753 | 0.089|
+|2026_11_16 | colabfab | equal_rate_flipped | 9e4a76be | 0.426 | 0.261 | 0.620 | 0.276 | 0.396 | 0.053|
+|2026_11_16 | colabfab | inverted_logreg | 9e4a76be | 0.065 | 0.293 | 0.187 | 0.615 | -0.422 | 0.089|
+|2026_11_16 | colabfab | logreg_pred_const_prob | 9e4a76be | 0.065 | 0.371 | 0.782 | 0.276 | 0.531 | 0.053|
