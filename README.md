@@ -1,4 +1,4 @@
-# Results at 2026 Nov 18 00:01 CST
+# Results at 2026 Nov 18 00:31 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -115,3 +115,4 @@
 |2026_11_17 | hannah_montana | hgb_acc | 5fd00df1 | 0.050 | 0.368 | 0.777 | 0.009 | 0.794 | 0.085|
 |2026_11_17 | hannah_montana | hgb_f1 | 5fd00df1 | 0.069 | 0.521 | 0.661 | 0.009 | 0.745 | 0.085|
 |2026_11_17 | hannah_montana | hgb_group_cal | 5fd00df1 | 0.031 | 0.404 | 0.693 | 0.019 | 0.776 | 0.094|
+|2026_11_18 | close_enough | probe_equal_dp_pa1 | 30bd7dec | 0.025 | 0.533 | 0.637 | 0.023 | 0.733 | 0.089|
