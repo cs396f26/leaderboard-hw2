@@ -1,4 +1,4 @@
-# Results at 2026 Nov 18 04:31 CST
+# Results at 2026 Nov 18 05:01 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -118,3 +118,4 @@
 |2026_11_18 | close_enough | probe_equal_dp_pa1 | 30bd7dec | 0.025 | 0.533 | 0.637 | 0.023 | 0.733 | 0.089|
 |2026_11_18 | peterparker | probe_dpd60 | b6c11fe9 | 0.868 | 0.303 | 0.378 | 0.276 | 0.132 | 0.053|
 |2026_11_18 | gugugaga | blend_fair_pa2_const_prob | ceb75dfb | 0.075 | 0.440 | 0.806 | 0.000 | 0.807 | 0.053|
+|2026_11_18 | gugugaga | blend_f1_t21_const_prob | 0f316396 | 0.068 | 0.544 | 0.667 | 0.000 | 0.755 | 0.053|
