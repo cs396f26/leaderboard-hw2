@@ -1,4 +1,4 @@
-# Results at 2026 Nov 17 18:31 CST
+# Results at 2026 Nov 17 19:01 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -98,3 +98,4 @@
 |2026_11_17 | colabfab | logreg_noPA_tuned | e2116cdb | 0.019 | 0.544 | 0.671 | 0.022 | 0.742 | 0.099|
 |2026_11_17 | colabfab | logreg_tuned_threshold | 04310560 | 0.069 | 0.545 | 0.702 | 0.023 | 0.761 | 0.089|
 |2026_11_17 | gugugaga | ens_f1_const_prob | 1e1e21cb | 0.057 | 0.544 | 0.676 | 0.000 | 0.761 | 0.053|
+|2026_11_17 | gugugaga | blend_f1_const_prob | dc4c6b8d | 0.067 | 0.544 | 0.675 | 0.000 | 0.761 | 0.053|
