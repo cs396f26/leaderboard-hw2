@@ -1,4 +1,4 @@
-# Results at 2026 Nov 18 20:32 CST
+# Results at 2026 Nov 18 21:01 CST
 | Date | Pseudonym | Model | Commit | M1 (↓) | M2 (↑) | M3 (↑) | M4 (↓) | M5 (↑) | M6 (↓)|
 |--- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 |2026_11_11 | baseline | PA1_unfair | 919bbb03 | 1.000 | 0.299 | 0.355 | 0.276 | 0.131 | 0.053|
@@ -151,3 +151,8 @@
 |2026_11_18 | peterparker | m5_v2_ens_thr49 | 2acfb43c | 0.046 | 0.435 | 0.772 | 0.000 | 0.808 | 0.053|
 |2026_11_18 | peterparker | m3_ens_pa2quota_tight | 0defb593 | 0.079 | 0.441 | 0.811 | 0.000 | 0.812 | 0.053|
 |2026_11_18 | peterparker | m3_hgb_pa2quota | 0defb593 | 0.046 | 0.439 | 0.811 | 0.000 | 0.811 | 0.053|
+|2026_11_18 | close_enough | probe_bgc_pa1_split | c56d442a | 0.113 | 0.543 | 0.644 | 0.251 | 0.512 | 0.063|
+|2026_11_18 | close_enough | probe_bgc_pa2_split | c56d442a | 0.113 | 0.543 | 0.644 | 0.286 | 0.478 | 0.022|
+|2026_11_18 | close_enough | probe_bgc_random_split | c56d442a | 0.113 | 0.543 | 0.644 | 0.274 | 0.489 | 0.066|
+|2026_11_18 | peterparker | probe_m6_b3 | d5c6a11a | 0.000 | 0.000 | 0.776 | 0.308 | 0.468 | 0.000|
+|2026_11_18 | peterparker | probe_m6_b4 | d5c6a11a | 0.000 | 0.000 | 0.776 | 0.281 | 0.495 | 0.000|
